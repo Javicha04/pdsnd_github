@@ -41,7 +41,7 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-
+    #load data generated in get_filters function
 
     return df
 
